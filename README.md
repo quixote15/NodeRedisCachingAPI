@@ -8,7 +8,7 @@
 </h3>
 
 
-<p align="center">This project is based on [this article](https://codeburst.io/caching-api-with-redis-and-node-b6f76831b442) </p>
+<p align="center">This project is based on this article: (https://codeburst.io/caching-api-with-redis-and-node-b6f76831b442) </p>
 
 
 ## Redis
